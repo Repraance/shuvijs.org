@@ -44,9 +44,9 @@ const config = {
     ({
       image: 'img/logo-og.png',
       algolia: {
-        appId: 'shuvijs',
-        apiKey: 'ddf5199f80099ebf2895567663218470',
-        indexName: 'shuvijs',
+        appId: 'XMOMUY6NIY',
+        apiKey: 'a2603be27a667e4bef297f92548a8055',
+        indexName: 'shuvi',
       },
       // sidebarCollapsible: false,
       navbar: {
